@@ -2,7 +2,7 @@
 
 ![preview](./imagens/img-nlw.jpg) 
 
-Projeto contruído do evento Next Week da Rocketseat
+Projeto construído do evento Next Week da Rocketseat
 
 [🔗 Clique para acessar](https://jonashenrique.github.io/projeto-nlw)
 
